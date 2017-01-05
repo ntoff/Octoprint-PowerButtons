@@ -1,4 +1,4 @@
-# OctoPrint-M18mod
+# OctoPrint-Power Buttons
 
 Adds M80 and M81 power supply control buttons
 
